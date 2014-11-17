@@ -18,6 +18,20 @@ int calculate_result(int white_balls[5], int power_ball)
 }
 
 int main(int argc, char** argv)
+{}
+
+int main(int argc, char** argv)
+{
+    if (argc != 7) nnnnnnn
+    {
+
+{}
+
+int main(int argc, char** argv)
+{
+    if (argc != 7) nnnnnnn
+    {
+
 {
     if (argc != 7) nnnnnnn
     {
