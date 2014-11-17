@@ -37,5 +37,5 @@ int main(int argc, char** argv)
 
     printf("%d percent chance of winning\n", result);
 
-    return 0; 
+    return 0;
 }
