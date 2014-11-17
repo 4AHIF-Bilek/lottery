@@ -13,7 +13,7 @@ int calculate_result(int white_balls[5], int power_ball)
 		{
 			return -1;
 		}
-		return 0;
+		return 0;asfdghag
 	}
 }
 
@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     if (argc != 7) nnnnnnn
     {
         fprintf(stderr, "Usage: %s (5 white balls) power_ball\n", argv[0]);bbb
-        return -1;
+        return -1;    dsgs
     }
 
     int power_ball = atoi(argv[6]);
