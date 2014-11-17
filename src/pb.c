@@ -21,6 +21,12 @@ int main(int argc, char** argv)
 {
     if (argc != 7) nnnnnnn
     {
+
+{
+    if (argc != 7) nnnnnnn
+{
+    if (argc != 7) nnnnnnn{
+    if (argc != 7) nnnnnnn
         fprintf(stderr, "Usage: %s (5 white balls) power_ball\n", argv[0]);bbb
         return -1;    dsgs
     }
