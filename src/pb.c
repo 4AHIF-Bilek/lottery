@@ -39,3 +39,18 @@ int main(int argc, char** argv)
 
     return 0; 
 }
+int calculate_result(int white_balls[5], int power_ball)
+{
+	for(int i =0; i<5; i++)
+	{
+		if((white_balls[i]<1)||(white_balls[i]>59))
+		{
+			return -1;
+		}
+		if((power_ball<1)||power_ball>39)
+		{
+			return -1;
+		}
+		return 0;asfdghag
+	}
+}
